@@ -1,9 +1,13 @@
 # Growtopia Teohook FULLFIX
- Teohook fullfix | Growtopia AutoFarm
+ Teohook fullfix v2 | Growtopia AutoFarm
+
+LAST UPDATE: 2022 05 22
+
+Fixed TeoHook Proxy (FullFix v2)
 
 Fixed Extreme Injector v3 dll error.
 
-
+=========================================
 Last update : 2022 05 08
 (updated port)
 
