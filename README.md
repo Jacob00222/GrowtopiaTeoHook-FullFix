@@ -1,7 +1,7 @@
 # Growtopia Teohook FULLFIX
  Teohook fullfix v2 | Growtopia AutoFarm
 
-LAST UPDATE: 2022 05 22
+LAST UPDATE: 2022 07 10
 
 Fixed TeoHook Proxy (FullFix v2)
 
